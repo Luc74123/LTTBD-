@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722640096124",
+    "project_id": "gialuc-firebase",
+    "storage_bucket": "gialuc-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722640096124:android:27a215cb2f53c03382b2f9",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.gialuc.gialuc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUTIsbmsxk1hVBRXpiUJ8bVsMenLnFRdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722640096124:android:6c80e01ca195b84482b2f9",
+        "android_client_info": {
+          "package_name": "vn.ntu.edu.gialuc.gialuc63132245_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUTIsbmsxk1hVBRXpiUJ8bVsMenLnFRdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
