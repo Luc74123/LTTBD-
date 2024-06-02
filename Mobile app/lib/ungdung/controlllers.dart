@@ -1,5 +1,7 @@
 import 'package:get/get.dart';
-import 'models.dart';
+import 'package:gialuc63132245_flutter/ungdung/models.dart';
+
+
 
 class SimpleControllerSP extends GetxController{
   List<Fruit> _dssp = [];

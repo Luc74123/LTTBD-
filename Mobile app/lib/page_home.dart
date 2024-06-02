@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:gialuc63132245_flutter/Form/page_form_mathang.dart';
 
+
 import 'package:gialuc63132245_flutter/getx/get_counter.dart';
 import 'package:gialuc63132245_flutter/json_list/page_list.dart';
 
 import 'package:gialuc63132245_flutter/list_provider/giohang_app_ntu.dart';
+import 'package:gialuc63132245_flutter/phone_app/page_ds_phone.dart';
 import 'package:gialuc63132245_flutter/profile/page_profile.dart';
 import 'package:gialuc63132245_flutter/rss/pages/page_rss_simple.dart';
 import 'package:gialuc63132245_flutter/test_phone/phone.dart';
@@ -48,6 +50,8 @@ StatelessWidget {
             destination:  FruitStoreAdmin(title: 'Danh sách trái cây',)),
             _buildButton(context, label: "Phone",
             destination:  PagePhone(title: 'Điện thoại',)),
+            _buildButton(context, label: "Phone",
+            destination:  PhonePage(title: 'Điện thoại',)),
 
 
 
